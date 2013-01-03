@@ -1,0 +1,7 @@
+Hello!
+
+I didn't have any other way to reach you but I assume that submitting a pull request will make github send you some kind of email.  I work at EdX.org, a non-profit aiming to transform and improve higher ed.  We're in the process of preparing to open source all of our platform and software and we we're currently stuck on an 'mitx' account for legacy reasons.
+
+We were hoping to rebrand and release this stuff under 'edx' on github but you beat us to it by a couple of years.  I was wondering if you'd be willing to relinquish the account to us by any chance?  If you're not feeling it or this email offends you then I apologize in advance, I'm just one of the sysadmins here who is fed up of email conversations about other edx names we could use on github and thought I'd try asking you directly.
+
+If we ever get organized enough to print t-shirts or any kind of cool jackets or anything I can definitely harrass the marketing guy into sending you one if that helps in any way! :)
